@@ -1,0 +1,55 @@
+Engenharia de Software.
+
+Pq desenvolver software é um desafio ?:
+Imaturidade da área 
+Software é intangivel - sem saber se está indo bem ou mal, pois não há como tocar e etc.
+Complexidade do desenvolvimento
+
+
+Crise de Software
+
+Quanto mais dificil é a construção de um software, mais dificil será a criação de desenvolver.
+
+Custo
+Funcionalidades
+Pessoas
+Prazo
+Qualidade
+
+Ex: 
+O projeto de 8 funcionalidades - 
+2 Analistas
+1 Analista - realiza 2 funcionalidades por mês
+1 Analista - recebe 10 mil !
+Prazo - 2 meses, pois em 1 mês os dois realizam 4 funções
+Custo - 40 mil.
+
+Pesquisa de Standish 2009 - 68% de projetos falharam.
+
+Como resolver isso ?
+Disciplina que ocupa todos os aspectos referente a produção de software.
+
+O que é um software ?
+Programas de computador e documentação associada.
+
+Aspectos da Engenharia de Software
+
+Ciclo de vida
+Especificações - Análise - Implementação - Validação - Entrega
+
+Modelos de processos e desenvolvimento
+Cascata - Modelo que segue o padrão de especificar, analisar, implementar, validar e finaliza na entrega, sem haver retorno.
+Evolucionário - Tenta resolver/solucionar uma especificação muito complexa com os modos:
+		Exploratório ( sugere que faça o desenolvimento em cima de uma especificação não fechada, vai sendo explorada até que tenha o projeto finalizado - código bagunçado ) ou por Prototipação - Usa o conceito evolucionario para levantar informações que serão uteis na continuidade do seu processo )
+Espiral - Não só desenvolver o projeto mas com gestão do projeto ( analise dos riscos por ex, sugere que especifique, analise, implemente, valide mas sempre a um planejamento a uma analise de risco. )
+Incremental - quebrar o dev em partes - realiza um ciclo e entrega, tipo 1.0 2.0 eetc.
+
+Melhores práticas para desev de software
+
+Controle de mudançças de Software
+Desen iterativo
+Gerenciamento de requisitos
+Utilização de software baseadas em componetes - esse será o foco. Reuso de componentes.
+Modelagem visual do software
+Verificação contínua da qualidade do software
+
