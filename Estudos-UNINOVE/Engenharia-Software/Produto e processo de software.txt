@@ -1,0 +1,27 @@
+Aula 02: Exercícios
+1. Na realidade atual, o software assume um duplo papel: ele é o produto e o
+veículo para entrega do produto. Explique essa afirmação.
+
+R: 1.
+O software como produto permite que o potencial de processamento do hardware do
+computador ou da rede de computadores seja utilizado, pois transforma informações
+em um amplo espectro de aplicações, das mais simples às mais complexas. Como
+veículo usado para entrega do produto, o software trabalha como elemento
+essencial para o controle do computador e seus recursos (como o sistema
+operacional), para a comunicação e transmissão da informação (redes) e para a
+criação e controle de outros programas (ferramentas e ambientes de
+desenvolvimento).
+
+2. Qual a definição de software segundo a norma ISO 9000-3?
+
+R:Criação intelectual compreendendo os programas, procedimentos, regras e qualquer
+documentação correlata à operação de um sistema de processamento de dados. 
+
+3. Defina o processo de software.
+
+R:Processo de software é um arcabouço (framework) das tarefas requeridas para se
+construir um software de alta qualidade. O processo forma uma base para o controle
+gerencial de projetos de software e estabelece o contexto no qual os métodos e as
+técnicas são aplicados, os produtos do trabalho são produzidos, os marcos são
+estabelecidos, a qualidade é assegurada e as modificações adequadamente
+geridas
