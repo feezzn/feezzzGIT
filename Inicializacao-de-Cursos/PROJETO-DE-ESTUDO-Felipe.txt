@@ -1,0 +1,48 @@
+PROJETO ESTUDO DO FELIPE.
+
+Coisas a aprender:
+Ansible
+Jenkins
+Docker
+OpenStack
+Aws
+Python/Shell
+Monitorações - Nagios - Prometheus e etc
+
+Coisas a aperfeiçoar:
+MYSQL
+LINUX
+REDES
+
+
+Preciso me dedicar no momento:
+Linux - Redes - Jenkins - Docker - Python/Shell
+
+Agora vamos pela ordem.
+
+Redes - eu não sei quase nada e é algo muito importante na area. Vamos iniciar por este
+Linux - Com o aprendizado em Redes, o que cai em Linux fica mais fácil de aplicar.
+MYSQL - preciso aprender/recordar coisas simples como: select, update, delete e etc.
+
+Ansible, Jenkins, Docker, AWS são ferramentas que vão me dar um salario melhor, mas para isso, preciso saber o básico que está acima.
+
+Vamos seguir após pegar o básico:
+
+Tem um curso sobre Jenkins e Ansible juntos se não me engano, já mato dois coelhos com um cajadada só ( acho que é isso kkk )
+Docker - depois de aprender sobre Vagrant, Docker não é muito diferente pois o final é o mesmo, apesar de modos diferentes, vai ser fácil.
+AWS - esse vou ter que aprender meio que nada raça, pq é pago dependendo do que eu for usar, então vou acabar fazendo o curso mas sem poder botar a mão na massa.
+Python/Shell - vão ter na parte de Linux, logo, vou acabar aprendendo um pouco e depois me aprofundo nessas caralhas.
+OpenStack vai ficar por ultimo, não dá pra fazer isso agora.
+
+
+
+Tenho que ter acada 25min 5 min de descanso e parar a cada 2 hrs para descanso.
+
+Vou tentar juntar Redes e Linux, mas eu tenho que trabalhar nisso, então, talvez eu faça um e depois o outro pra ter um aprendizado melhor, já que é a primeira vez que eu me dedico em estudos rsrs.
+
+Aprendendo os básicos que devo ter e o básico do restarnte ( não preciso ser um monstro nisso, pois quando precisar usar, vou acabar aperfeiçoando ) consigo ganhar um salario maior ( chegando a 2x ).
+
+
+Vamos nessa caralha para melhorar minha rotina, nossas vidas, pois somos em 4 agora. Tenho que dar uma condição melhor não só pra eles, mas pra minha pessoa também. Não quero só ganhar dinheiro, quero ganhar dinheiro com o que gosto de fazer.
+
+VAMOS NESSA PORRA o/

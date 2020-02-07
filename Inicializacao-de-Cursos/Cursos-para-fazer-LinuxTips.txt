@@ -1,0 +1,32 @@
+Kubernetes
+
+https://www.youtube.com/watch?v=pV0nkr61XP8 - O que é o KUBERNETES e INSTALANDO o MINIKUBE 
+https://www.youtube.com/watch?v=CNZmKjklfeg - INSTALANDO e CONFIGURANDO um CLUSTER KUBERNETES
+https://www.youtube.com/watch?v=mk8mKVymU6E - Primeiros passos em nosso CLUSTER KUBERNETES
+https://www.youtube.com/watch?v=04xdSqcEEyE - Como configurar um cluster KUBERNETES sem o DOCKER
+
+Ansible
+
+https://www.youtube.com/watch?v=BYM6tqn2UvQ - Ansible | Semana DevOps
+
+Terraform
+
+https://www.youtube.com/watch?v=lrAycU7_XnQ - Terraform | Semana DevOps
+
+Monitoração:
+
+https://www.youtube.com/watch?v=nuN5qe1T0Hc - Prometheus, Netdata, cAdvisor, Grafana, Docker e Slack
+https://www.youtube.com/watch?v=H-ZxEnYjLfM - O Sensacional NETDATA
+https://www.youtube.com/watch?v=OnzIUGHl9no - Instalando e configurando o PROMETHEUS no Ubuntu e CentOS!
+https://www.youtube.com/watch?v=uN6BtGXnnzs - Instalando o Node Exporter e Integrando o Prometheus com o Netdata
+https://www.youtube.com/watch?v=BWPOLLC1TE8 - Integrando o AlertManager com o Prometheus, Slack ou RocketChat
+https://www.youtube.com/watch?v=XZ2iSWeErtM - Sensacional Rocket.Chat
+https://www.youtube.com/watch?v=3K_FkcMwzAk - Grafana
+
+AWS
+
+https://www.youtube.com/watch?v=lOOhoC_DvwE - AWS | Semana DevOps
+
+Python
+
+https://www.youtube.com/watch?v=yB-qL57BpAw - Como Programar em Python - parte1

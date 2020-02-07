@@ -1,0 +1,16 @@
+O que é o Ansible ?
+Gerenciador de configuração.
+
+ansible-galaxy init create ( para criar a pasta e os subdiretórios )
+
+Diretórios importantes do ansible:
+files ( aonde coloco os arquivos para a máquina alvo )
+handles ( arquivo para realizar o restart )
+tasks ( tarefas que queremos que ele faça: instalar máquina, pacote e etc . . .)
+templates ( criar um arquivo com variaveis para entregar na máquina destino )
+vars ( variaveis )
+
+
+Para ter acesso com o usuario criado na AWS
+export AWS_ACCESS_KEY_ID="AKIAQQXRFE37R2CPV7BX"
+export AWS_SECRET_ACCESS_KEY="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"

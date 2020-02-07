@@ -1,0 +1,5 @@
+https://cursos.alura.com.br/course/aws-s3-manipule-e-armazene-na-nuvem
+https://cursos.alura.com.br/course/amazon-vpc
+https://cursos.alura.com.br/course/amazon-cloudfront-route53
+https://cursos.alura.com.br/course/docker-e-docker-compose
+https://cursos.alura.com.br/formacao-devops
