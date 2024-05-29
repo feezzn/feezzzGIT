@@ -1,6 +1,0 @@
-Aula 01: Exercícios
-1. O que caracterizou a chamada “crise do software”?
-
-R:1. A crise do software foi caracterizada principalmente pelo atraso na entrega do software, pelo
-custo mais elevado do que o estimado inicialmente e pela falta de qualidade no produto
-desenvolvido.
