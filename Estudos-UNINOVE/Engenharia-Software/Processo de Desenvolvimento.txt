@@ -1,0 +1,21 @@
+Aula 03: Exercícios
+1. O que é realizado na atividade de especificação?
+
+R: Nesta etapa, os profissionais devem realizar uma tarefa de extrema importância, que
+é fazer o levantamento dos requisitos de software e modelos de domínio. Os
+requisitos são fundamentais para que o engenheiro de software possa elaborar um
+plano de desenvolvimento de software, indicando em detalhes os recursos
+necessários (humanos e materiais), bem como as estimativas de prazos e custos
+(cronograma e orçamento).
+
+2. O que é realizado na atividade de desenvolvimento?
+
+R: A etapa de desenvolvimento ou de produção do software inclui todas as atividades
+que têm por objetivo a construção do produto. Essa etapa inclui as atividades de
+projeto e implementação do software.
+
+
+3. A que se destina a etapa de validação?
+
+R: São atividades que se destinam a mostrar que o sistema está de acordo com a
+especificação e que ele atende às expectativas de clientes e usuários.
